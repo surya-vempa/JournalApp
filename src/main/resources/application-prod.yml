@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://suryavempa8:suryaprathap@cluster0.rw9ec8c.mongodb.net/journalAppDB?retryWrites=true&w=majority&appName=Cluster0
+      auto-index-creation: true
+
